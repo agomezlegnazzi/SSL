@@ -1,3 +1,7 @@
-# SSL
+# SSL K2152
 
-Repo de la materia SSL.
+2024
+
+### LEGAJO : 2063827
+
+### Nombre : Alejandro Nicolás Gómez Legnazzi
